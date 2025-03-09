@@ -7,7 +7,7 @@
 </p>
 
 <h2>Live Demo</h2>
-👉 Play the Game
+<a href="https://tenzies-game-fhewr8x7s-spnandalskars-projects.vercel.app/">Play the game</a>
 
 <h2>Features</h2>
 <ul>
